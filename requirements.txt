@@ -1,0 +1,3 @@
+einops
+torch
+x-transformers
